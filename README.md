@@ -16,7 +16,7 @@ Motivated to grow as a developer, contribute to real-world products, and continu
 
 ## 🧰 Tech Stack
 
-JavaScript (ES6+) | HTML5 | CSS3 | REST API | Git | Responsive Design
+JavaScript (ES6+) | HTML5 | CSS3 | React | Git 
 
 
 ## 💻 Featured Projects
