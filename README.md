@@ -14,12 +14,12 @@ Collaborating in team environments using Git (feature branches & pull requests)
 Motivated to grow as a developer, contribute to real-world products, and continuously improve my technical skills.
 
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 JavaScript (ES6+) | HTML5 | CSS3 | REST API | Git | Responsive Design
 
 
-# 💻 Featured Projects
+## 💻 Featured Projects
 
 Animal Shelter Adoption Website — team-developed web application created to support an animal shelter. I contributed as a frontend developer, building interactive UI components with JavaScript, implementing dynamic content rendering and filtering, and ensuring responsive layout across different devices while collaborating through Git workflow.
 
@@ -34,7 +34,7 @@ Image Search Web App — a JavaScript application integrating a public REST API.
 🔗 [View Repository](https://tae27037.github.io/goit-js-hw-12/)
 
 
-# 🗣️ Languages
+## 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 ![Czech](https://img.shields.io/badge/Czech-B2-red?style=flat-square)
@@ -42,7 +42,7 @@ Image Search Web App — a JavaScript application integrating a public REST API.
 ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
 
 
-# 📫 How to reach me
+## 📫 How to reach me
 [LinkedIn](https://www.linkedin.com/in/oleksandra-tkachuk-t/)| 
 [Telegram](https://t.me/aleksandraatk) | 
 [Email](mailto:tae27037@gmail.com)
