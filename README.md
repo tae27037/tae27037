@@ -1,6 +1,6 @@
 ## Hi, I'm Oleksandra Tkachuk 👋
 
-# Junior Frontend Developer | React | Next.js | JavaScript | HTML | CSS | Node.js
+# Junior Fullstack Developer | React | Next.js | JavaScript | HTML | CSS | Node.js
 
 Fullstack Developer focused on building responsive front-end interfaces and developing backend services for complete web applications.
 
