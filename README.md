@@ -23,17 +23,22 @@ JavaScript (ES6+) | HTML5 | CSS3 | React | Git | React | Next.js |  Node.js
 
 ## 💻 Featured Projects
 
+Leleka - Pregnancy support web application. 
+Team-developed fullstack web application supporting pregnancy tracking with personalized, week-based content. 
+Worked as a fullstack developer on both backend and frontend. Implemented backend API endpoints and Next.js route handlers for week-based pregnancy data. Developed key frontend features including Tasks Reminder, Diary Page and Diary List. Focused on responsive UI
+and integration between frontend and backend systems.
+
+🔗 [View Repository](https://pregnancy-tracker-frontend.vercel.app/)
+
+TravelTrucks - Camper rental web application.
+Developed a camper rental web application allowing users to browse campers, filter results, view details and make bookings.
+Built Catalog page with filtering and dynamic data fetching and Camper Details page with gallery, reviews and booking form. Focused on responsive UI and frontend–backend integration.
+
+🔗 [View Repository](https://travel-trucks-five-coral.vercel.app/)
+
 Animal Shelter Adoption Website — team-developed web application created to support an animal shelter. I contributed as a frontend developer, building interactive UI components with JavaScript, implementing dynamic content rendering and filtering, and ensuring responsive layout across different devices while collaborating through Git workflow.
 
 🔗 [View Repository](https://byolexandra.github.io/project-Best01-js/)
-
-CoffeeJoy — Responsive Brand Website — a team project based on a predefined design. I was responsible for structuring semantic HTML5 markup, implementing a responsive layout using modern CSS, and adding basic interactivity with JavaScript while working collaboratively via Git.
-
-🔗 [View Repository](https://textterrion.github.io/teamwork-html-css/)
-
-Image Search Web App — a JavaScript application integrating a public REST API. The project focuses on asynchronous requests, dynamic gallery rendering, and modal preview functionality, with attention to clean and maintainable code structure.
-
-🔗 [View Repository](https://tae27037.github.io/goit-js-hw-12/)
 
 
 ## 🗣️ Languages
